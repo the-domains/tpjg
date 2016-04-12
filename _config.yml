@@ -1,0 +1,28 @@
+name: tpjg
+favicon: null
+layout_spectrum: 0.2556948005221784
+typography_spectrum: 0.32062022062018514
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8070489154197276
+  lightness: 0.9716839564498514
+  saturation: 0.6067846796941012
+  rhythmicContrast: 0.5288562928326428
+purpose: []
