@@ -1,28 +1,40 @@
-name: tpjg
-favicon: null
-layout_spectrum: 0.2556948005221784
-typography_spectrum: 0.32062022062018514
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.6067846796941012
+  brandStrength: 0.8070489154197276
+  rhythmicContrast: 0.5288562928326428
   brandColors:
     - '#ADD7F6'
     - '#87BFFF'
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.8070489154197276
   lightness: 0.9716839564498514
-  saturation: 0.6067846796941012
-  rhythmicContrast: 0.5288562928326428
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: tpjg
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.1379928
+layout_spectrum: 0.2556948005221784
